@@ -1,0 +1,9 @@
+gpttools ver. 1.2 正式发行
+
+gpttools ver. 1.1 更新了模型命名方法
+
+gpttools ver. 1.0 更新了多模型
+
+gpttools  ver. 0.8 更新了UI
+
+gpttools  ver.  0.3  更行了底层逻辑 
